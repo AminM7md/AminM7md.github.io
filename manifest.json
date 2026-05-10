@@ -3,32 +3,32 @@
     "short_name": "Amin Mohamed",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
+    "background_color": "#000000",
+    "theme_color": "#000000",
     "description": "Amin Mohamed's portfolio web application.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Web_Logo.svg",
+            "src": "icons/Icon-192.png",
             "sizes": "192x192",
-            "type": "image/svg"
+            "type": "image/png"
         },
         {
-            "src": "icons/Web_Logo.svg",
+            "src": "icons/Icon-512.png",
             "sizes": "512x512",
-            "type": "image/svg"
+            "type": "image/png"
         },
         {
-            "src": "icons/Web_Logo.svg",
+            "src": "icons/Icon-maskable-192.png",
             "sizes": "192x192",
-            "type": "image/svg",
+            "type": "image/png",
             "purpose": "maskable"
         },
         {
-            "src": "icons/Web_Logo.svg",
+            "src": "icons/Icon-maskable-512.png",
             "sizes": "512x512",
-            "type": "image/svg",
+            "type": "image/png",
             "purpose": "maskable"
         }
     ]
